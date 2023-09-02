@@ -1,1 +1,1 @@
-Hi there my name is Danika
+Hello, I'm Danika, an
