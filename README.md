@@ -10,3 +10,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dmendozanv/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [OsTicket Ticket Lifecycle Examples](https://github.com/Dmendozanv/OsTicket-Ticket-Lifecycle-Examples)
   - [DNS-In-Active-Directory](https://github.com/Dmendozanv/DNS-In-Active-Directory)
+  - [File-Sharing-And-Network-Security-Groups-In-Active-Directory](https://github.com/Dmendozanv/File-Sharing-And-Network-Security-Groups-In-Active-Directory)
